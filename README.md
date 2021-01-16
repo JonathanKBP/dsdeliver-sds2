@@ -36,6 +36,13 @@ Para testar a aplicação basta clicar [aqui](https://dsdelivery-jonathan.netlif
 ![Pagina inicial](./.github/home.png)
 ![Lista de pedidos](./.github/listaPedidos.png)
 
+**WEB**
+<p align="center">
+  <img width="33%" src="./.github/home.svg" alt="Home mobile">
+  <img width="33%" src="./.github/pedidos.svg" alt="pedidos mobile">
+  <img width="33%" src="./.github/detalhes_pedido.svg" alt="detales do pedido mobile">
+</p>
+
 ## 📦 Como usar
 
 ```bash
